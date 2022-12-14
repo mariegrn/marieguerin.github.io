@@ -5,6 +5,11 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
 /* 
     Created on : 14 déc. 2022, 10:14:22
     Author     : marie.guerin
-*/jumbotrom {
- 
+*/h1 {
+ padding: 9px;
 }
+jumbroton p {
+   margin-left: 11%;
+   margin-top:-15px;
+}
+
