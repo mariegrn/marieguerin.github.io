@@ -1,0 +1,44 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 2 janv. 2023, 15:22:51
+    Author     : Marie
+*/
+
+/******************************************
+* Me contacter
+******************************************/
+.meContacter {
+    clear: both;
+}
+.meContacter .details {
+    width: 100%;
+    margin-left: 10px;
+    margin-top: 3px;
+    font-size: 1.5em;
+    font-weight: 700;
+    justify-content: space-between;
+}
+.contact-icon {
+    filter: grayscale(1);
+    -webkit-filter: grayscale(1);
+    -moz-filter: grayscale(1);
+    -ms-filter: grayscale(1);
+    -o-filter: grayscale(1);
+    height: 32px;
+    width: 32px;
+    margin: 2px 0;
+}
+.meContacter a, .meContacter a:hover {
+    text-decoration: none;
+    color: black;
+}
+.meContacter a:hover>img {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+    -moz-filter: grayscale(0);
+    -ms-filter: grayscale(0);
+    -o-filter: grayscale(0);
+}
