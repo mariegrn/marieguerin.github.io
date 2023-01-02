@@ -12,4 +12,9 @@ jumbroton p {
    margin-left: 11%;
    margin-top:-15px;
 }
-
+ a btn btn-secondary {
+    color: white;
+    background-color: blue;
+    border-color: blue;
+    
+}
